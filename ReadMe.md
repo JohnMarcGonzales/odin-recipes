@@ -1,4 +1,4 @@
-Here are the lessons I have learned recently on the Odin Project:
+Here are  some of the lessons I have learned recently on the Odin Project:
 
 Why use Linux when taking the Odin Project.
     Learned how to properly use the terminal to do things.
